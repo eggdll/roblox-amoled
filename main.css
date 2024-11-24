@@ -253,3 +253,7 @@
 .dark-theme .stack .stack-list .stack-row {
   background-color: #151515;
 }
+
+.dark-theme .profile-avatar-right .profile-avatar-mask {
+  background-color: #202020;
+}
