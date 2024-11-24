@@ -1,3 +1,13 @@
+/*
+    Edit this to change the colors
+*/
+:root {
+    --growth-bg: #5300b1;
+    --growth-bg-hover: #6b00ff;
+    --growth-border: #4b00b3;
+    --growth-border-hover: #6516c0;
+}
+
 .dark-theme,
 .dark-theme .content {
     background-color: #000 !important;
