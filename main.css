@@ -257,3 +257,16 @@
 .dark-theme .profile-avatar-right .profile-avatar-mask {
   background-color: #202020;
 }
+
+.dark-theme .friend-tile-dropdown {
+  background-color: #151515;
+  border-radius: 5px;
+}
+
+.friend-presence-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  margin-left: 10px;
+}
