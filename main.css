@@ -1,0 +1,262 @@
+:root {
+    --growth-bg: #5300b1;
+    --growth-bg-hover: #6b00ff;
+    --growth-border: #4b00b3;
+    --growth-border-hover: #6516c0;
+}
+
+.dark-theme,
+.dark-theme .content {
+    background-color: #000 !important;
+    color: #fff;
+}
+
+.dark-theme .rbx-header {
+    background-color: #111;
+    border-color: #111214;
+}
+
+.dark-theme .container-footer {
+    background-color: #000;
+}
+
+.dark-theme .rbx-left-col {
+    background-color: #111;
+}
+
+.dark-theme .section-content {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+.dark-theme.btr-profile .btr-games-list .btr-game-button {
+  background-color:#151515;
+  border-color: #242424;
+}
+
+.dark-theme .menu-vertical {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+.dark-theme .rbx-tabs-vertical .category-tabs .menu-vertical {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+.dark-theme .container-empty, .dark-theme .section-content-off {
+  background-color: #202020;
+  color: #bdbebe;
+}
+
+.dark-theme .btn-growth-xs {
+  background-color: var(--growth-bg);
+  border-color: var(--growth-border);
+}
+
+.dark-theme .btn-growth-xs:hover, .dark-theme .btn-growth-xs:focus {
+  background-color: var(--growth-bg-hover);
+  border-color: var(--growth-border-hover);
+}
+
+.dark-theme .btn-growth-sm {
+  background-color: var(--growth-bg);
+  border-color: var(--growth-border);
+}
+
+.dark-theme .btn-growth-sm:hover, .dark-theme .btn-growth-sm:focus {
+  background-color: var(--growth-bg-hover);
+  border-color: var(--growth-border-hover);
+}
+
+.dark-theme .btn-growth-md {
+  background-color: var(--growth-bg);
+  border-color: var(--growth-border);
+}
+
+.dark-theme .btn-growth-md:hover, .dark-theme .btn-growth-md:focus {
+  background-color: var(--growth-bg-hover);
+  border-color: var(--growth-border-hover);
+}
+
+.dark-theme .btn-growth-lg {
+  background-color: var(--growth-bg);
+  border-color: var(--growth-border);
+}
+
+.dark-theme .btn-growth-lg:hover, .dark-theme .btn-growth-lg:focus {
+  background-color: var(--growth-bg-hover);
+  border-color: var(--growth-border-hover);
+}
+
+.dark-theme .dropdown-menu {
+  background-color: #1c1c1c;
+}
+
+.dark-theme .popover.bottom > .arrow, .dark-theme .popover.bottom > .arrow::after {
+  border-bottom-color: #1c1c1c;
+}
+
+.dark-theme .voting-panel .users-vote .vote-details .vote-container .vote-background, .dark-theme .voting-panel .users-vote .vote-details .vote-container .vote-background.has-votes {
+  background-color: #999;
+}
+
+.dark-theme .btn-common-play-game-lg {
+  background-color: var(--growth-bg);
+  border-color: var(--growth-border);
+}
+
+.dark-theme .btn-common-play-game-lg:focus, .dark-theme .btn-common-play-game-lg:hover {
+  background-color: var(--growth-bg-hover);
+  border-color: var(--growth-border-hover);
+}
+
+.dark-theme .rbx-tabs-horizontal .nav-tabs {
+  background-color: #1a1a1a;
+}
+
+.dark-theme .rbx-tab .rbx-tab-heading {
+  background-color: #171717;
+}
+
+.dark-theme .rbx-tabs-horizontal #horizontal-tabs .rbx-tab:not(.active) a:not(:hover) {
+  background-color: #171717;
+}
+
+.dark-theme #catalog-react-page .search-bars {
+  background: #000;
+}
+
+.dark-theme .catalog-container .sticky .topic-container {
+    background-color: #000;
+}
+
+.dark-theme .thumbnail-2d-container {
+  border: 0;
+  background-color: #13131380;
+}
+
+.dark-theme .item-card-container .item-card-thumb-container {
+  border: 0;
+  background-color: rgb(38, 38, 38);
+}
+
+.dark-theme .shopping-cart-modal-container .shopping-cart-modal {
+  background-color: #151515;
+}
+
+.dark-theme .item-card-container .item-card-thumb-container {
+  background-color: rgb(0, 0, 0);
+}
+
+.dark-theme .thumbnail-2d-container {
+  background-color: #2d2d2d8a;
+}
+
+.dark-theme .layer {
+  background-color: #202020;
+}
+
+.dark-theme .new-notification-stream-2022 .notification-stream-container .notification-content-view .notification-stream-body .notification-stream-scrollbar .notification-stream-list .notification-stream-item, .dark-theme .new-notification-stream-2022 .notification-stream-container .notification-content-view .notification-stream-body .notification-stream-scrollbar .notification-stream-list .sendr-notification-background {
+  background-color: #171717;
+}
+
+.dark-theme .notification-stream-header, .notification-stream-header.dark-theme {
+  background-color: #1e1e1e;
+}
+
+.dark-theme .friends-content .avatar-card-content {
+  background-color: #151515;
+}
+
+.dark-theme .messages .messageDivider {
+  background-color: #151515;
+  color: #fff;
+}
+
+.dark-theme .border, .dark-theme .border-bottom, .dark-theme .border-left, .dark-theme .border-right, .dark-theme .border-top {
+  border-color: #2d2d2d;
+}
+
+.dark-theme .table {
+  background-color: #151515;
+  color: #fff;
+}
+
+.dark-theme #robux-upsell-react-page-wrapper .robux-upsell-container-1 .robux-upsell-item-and-packages-container {
+  background: #151515;
+}
+
+.dark-theme #robux-upsell-react-page-wrapper .subscription-container .subscription-cards-container .subscription-card-v0,
+.dark-theme .premium-landing-page .membership-section .subscription-card-annual:not(.disabled):not(.purchased):hover, .dark-theme .premium-landing-page .membership-section .subscription-card:not(.disabled):not(.purchased){
+    transition: all 500ms;
+}
+
+.dark-theme #robux-upsell-react-page-wrapper .subscription-container .subscription-cards-container .subscription-card-v0:hover,
+.dark-theme .premium-landing-page .membership-section .subscription-card-annual:not(.disabled):not(.purchased):hover, .dark-theme .premium-landing-page .membership-section .subscription-card:not(.disabled):not(.purchased):hover{
+  border: none;
+    transform: scale(110%);
+}
+
+.dark-theme .avatar-card-btns {
+  background-color: #202020;
+}
+
+.dark-theme .passkey-upsell-banner {
+  background-color: #151515;
+  border-color: #202020;
+}
+
+.dark-theme .modal-dialog .modal-content {
+  background-color: #1a1a1a;
+}
+
+.dark-theme .account-switcher-list .account-selection-list-item .account-selection {
+  background-color: #151515;
+}
+
+.dark-theme .account-switcher-list .account-selection-list-item .account-selection.active, .dark-theme .account-switcher-list .account-selection-list-item .account-selection:active, .dark-theme .account-switcher-list .account-selection-list-item .account-selection:focus, .dark-theme .account-switcher-list .account-selection-list-item .account-selection:hover, .open > .dark-theme .account-switcher-list .account-selection-list-item .account-selection.dropdown-toggle {
+  background-color: #0b0b0b;
+}
+
+.btr-preview-container canvas {
+    background: #0b0b0b;
+}
+
+.dark-theme .open .dropdown-menu {
+  background-color: #1c1c1c;
+}
+
+.dark-theme .message-banner {
+  background-color: #202020;
+  color: #bdbebe;
+}
+
+.dark-theme .rbx-header .navbar-search .new-dropdown-menu {
+  background-color: #1c1c1c;
+}
+
+.details-dialog-container,
+.dark-theme .conversation-title-editor-container .conversation-title-editor-body,
+.dark-theme .dialog-container .confirm-negative-action-container,
+.dark-theme .details-btns,
+.dark-theme .details-header-container,
+.dark-theme .details-members-container .add-friends-option,
+.dark-theme .details-container,
+.dark-theme .details-btns-fixed,
+.dark-theme .friends-list-container,
+.dark-theme .dialogs .dialog-container .dialog-body,
+.dark-theme .chat-main {
+  background-color: #151515;
+}
+
+.dark-theme .chat-windows-header,
+.dark-theme .dialogs .dialog-container .dialog-header,
+.dark-theme .chat-container .chat-main .chat-header {
+  background-color: #202020;
+}
+
+.dark-theme .stack .card-list .card-item,
+.dark-theme .stack .stack-list .stack-row {
+  background-color: #151515;
+}
