@@ -1,22 +1,12 @@
 /* ==UserStyle==
 @name         roblox amoled purple
-@version      20241124.16.39
+@version      20241124.16.47
 @namespace    https://userstyles.world/user/eggdll
 @description  makes the roblox site way better!!!!
 @author       eggdll
 ==/UserStyle== */
 
 @-moz-document domain("roblox.com") {
-  /*
-    if you don't want it to be purple, just change these colors!
-  */
-  :root {
-    --growth-bg: #5300b1;
-    --growth-bg-hover: #6b00ff;
-    --growth-border: #4b00b3;
-    --growth-border-hover: #6516c0;
-  }
-  
   @import url("https://eggdll.github.io/roblox-amoled/font.css");
   @import url("https://eggdll.github.io/roblox-amoled/main.css");
 }
