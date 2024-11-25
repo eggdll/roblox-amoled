@@ -99,7 +99,7 @@
   border-color: var(--growth-border);
 }
 
-.dark-theme .btn-common-play-game-lg:focus, .dark-theme .btn-common-play-game-lg:hover {
+.dark-theme .touch .btn-common-play-game-lg.active, .dark-theme .touch .btn-common-play-game-lg:active, .dark-theme .touch .btn-common-play-game-lg:focus, .dark-theme .touch .btn-common-play-game-lg:hover, .dark-theme .touch .btn-common-play-game-lg:visited, .light-theme .touch .btn-common-play-game-lg.active, .light-theme .touch .btn-common-play-game-lg:active, .light-theme .touch .btn-common-play-game-lg:focus, .light-theme .touch .btn-common-play-game-lg:hover, .light-theme .touch .btn-common-play-game-lg:visited, .light-theme a.btn-common-play-game-lg {
   background-color: var(--growth-bg-hover);
   border-color: var(--growth-border-hover);
 }
