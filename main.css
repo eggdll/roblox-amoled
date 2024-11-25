@@ -276,3 +276,7 @@
 .verified-badge-icon-experience-creator {
     filter: var(--checkmark-filter);
 }
+
+.dark-theme .menu-vertical .menu-option .menu-secondary {
+  background-color: #202020;
+}
