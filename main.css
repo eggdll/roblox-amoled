@@ -47,7 +47,7 @@
   border-color: var(--growth-border);
 }
 
-.dark-theme .btn-growth-xs:hover, .dark-theme .btn-growth-xs:focus {
+.dark-theme .btn-growth-xs:hover, .dark-theme .btn-growth-xs:focus, .dark-theme .btn-growth-xs:visited {
   background-color: var(--growth-bg-hover);
   border-color: var(--growth-border-hover);
 }
@@ -57,7 +57,7 @@
   border-color: var(--growth-border);
 }
 
-.dark-theme .btn-growth-sm:hover, .dark-theme .btn-growth-sm:focus {
+.dark-theme .btn-growth-sm:hover, .dark-theme .btn-growth-sm:focus, .dark-theme .btn-growth-sm:visited {
   background-color: var(--growth-bg-hover);
   border-color: var(--growth-border-hover);
 }
@@ -67,7 +67,7 @@
   border-color: var(--growth-border);
 }
 
-.dark-theme .btn-growth-md:hover, .dark-theme .btn-growth-md:focus {
+.dark-theme .btn-growth-md:hover, .dark-theme .btn-growth-md:focus, .dark-theme .btn-growth-md:visited {
   background-color: var(--growth-bg-hover);
   border-color: var(--growth-border-hover);
 }
@@ -77,7 +77,7 @@
   border-color: var(--growth-border);
 }
 
-.dark-theme .btn-growth-lg:hover, .dark-theme .btn-growth-lg:focus {
+.dark-theme .btn-growth-lg:hover, .dark-theme .btn-growth-lg:focus, .dark-theme .btn-growth-lg:visited {
   background-color: var(--growth-bg-hover);
   border-color: var(--growth-border-hover);
 }
