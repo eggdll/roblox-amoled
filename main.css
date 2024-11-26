@@ -280,3 +280,12 @@
 .dark-theme .menu-vertical .menu-option .menu-secondary {
   background-color: #202020;
 }
+
+.dark-theme .item-thumbnail-container .asset-thumb-container {
+  background-color: #151515;
+}
+
+.related-asset-container {
+  background-color: #191919;
+  background-color: rgba(60, 60, 60, 0.25);
+}
