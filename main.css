@@ -43,43 +43,43 @@
 }
 
 .dark-theme .btn-growth-xs {
-  background-color: var(--growth-bg);
-  border-color: var(--growth-border);
+  background-color: var(--growth-bg) !important;
+  border-color: var(--growth-border) !important;
 }
 
 .dark-theme .btn-growth-xs:hover, .dark-theme .btn-growth-xs:focus, .dark-theme .btn-growth-xs:visited {
-  background-color: var(--growth-bg-hover);
-  border-color: var(--growth-border-hover);
+  background-color: var(--growth-bg-hover) !important;
+  border-color: var(--growth-border-hover) !important;
 }
 
 .dark-theme .btn-growth-sm {
-  background-color: var(--growth-bg);
-  border-color: var(--growth-border);
+  background-color: var(--growth-bg) !important;
+  border-color: var(--growth-border) !important;
 }
 
 .dark-theme .btn-growth-sm:hover, .dark-theme .btn-growth-sm:focus, .dark-theme .btn-growth-sm:visited {
-  background-color: var(--growth-bg-hover);
-  border-color: var(--growth-border-hover);
+  background-color: var(--growth-bg-hover) !important;
+  border-color: var(--growth-border-hover) !important;
 }
 
 .dark-theme .btn-growth-md {
-  background-color: var(--growth-bg);
-  border-color: var(--growth-border);
+  background-color: var(--growth-bg) !important;
+  border-color: var(--growth-border) !important;
 }
 
 .dark-theme .btn-growth-md:hover, .dark-theme .btn-growth-md:focus, .dark-theme .btn-growth-md:visited {
-  background-color: var(--growth-bg-hover);
-  border-color: var(--growth-border-hover);
+  background-color: var(--growth-bg-hover) !important;
+  border-color: var(--growth-border-hover) !important;
 }
 
 .dark-theme .btn-growth-lg {
-  background-color: var(--growth-bg);
-  border-color: var(--growth-border);
+  background-color: var(--growth-bg) !important;
+  border-color: var(--growth-border) !important;
 }
 
 .dark-theme .btn-growth-lg:hover, .dark-theme .btn-growth-lg:focus, .dark-theme .btn-growth-lg:visited {
-  background-color: var(--growth-bg-hover);
-  border-color: var(--growth-border-hover);
+  background-color: var(--growth-bg-hover) !important;
+  border-color: var(--growth-border-hover) !important;
 }
 
 .dark-theme .dropdown-menu {
@@ -95,13 +95,13 @@
 }
 
 .dark-theme .btn-common-play-game-lg {
-  background-color: var(--growth-bg);
-  border-color: var(--growth-border);
+  background-color: var(--growth-bg) !important;
+  border-color: var(--growth-border) !important;
 }
 
 .dark-theme .touch .btn-common-play-game-lg.active, .dark-theme .touch .btn-common-play-game-lg:active, .dark-theme .touch .btn-common-play-game-lg:focus, .dark-theme .touch .btn-common-play-game-lg:hover, .dark-theme .touch .btn-common-play-game-lg:visited, .light-theme .touch .btn-common-play-game-lg.active, .light-theme .touch .btn-common-play-game-lg:active, .light-theme .touch .btn-common-play-game-lg:focus, .light-theme .touch .btn-common-play-game-lg:hover, .light-theme .touch .btn-common-play-game-lg:visited, .light-theme a.btn-common-play-game-lg {
-  background-color: var(--growth-bg-hover);
-  border-color: var(--growth-border-hover);
+  background-color: var(--growth-bg-hover) !important;
+  border-color: var(--growth-border-hover) !important;
 }
 
 .dark-theme .rbx-tabs-horizontal .nav-tabs {
