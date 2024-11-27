@@ -289,3 +289,7 @@
   background-color: #191919;
   background-color: rgba(60, 60, 60, 0.25);
 }
+
+.btr-toggle-description {
+  background: transparent;
+}
