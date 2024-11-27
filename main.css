@@ -291,7 +291,7 @@
 }
 
 .btr-toggle-description {
-  background: transparent;
+  background: transparent !important;
 }
 
 .dark-theme .not-approved-page-web-app-root .not-approved-content-container {
