@@ -293,3 +293,7 @@
 .btr-toggle-description {
   background: transparent;
 }
+
+.dark-theme .not-approved-page-web-app-root .not-approved-content-container {
+  background-color: #151515;
+}
