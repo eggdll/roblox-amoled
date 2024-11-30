@@ -297,3 +297,7 @@
 .dark-theme .not-approved-page-web-app-root .not-approved-content-container {
   background-color: #151515;
 }
+
+.dark-theme .table-striped > tbody > tr:nth-child(2n) > td, .dark-theme .table-striped > tbody > tr:nth-child(2n) > th {
+  background-color: #151515;
+}
