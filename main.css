@@ -301,3 +301,9 @@
 .dark-theme .table-striped > tbody > tr:nth-child(2n) > td, .dark-theme .table-striped > tbody > tr:nth-child(2n) > th {
   background-color: #151515;
 }
+
+.avatar-back .thumbnail-2d-container {
+  background-color: transparent !important;
+}
+
+/*https://eggdll.github.io/roblox-amoled/avatar-bg.svg wanted to make a cool avatar editor bg but roblox sucks*/
