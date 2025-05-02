@@ -1,14 +1,13 @@
 /* ==UserStyle==
 @name         roblox amoled purple
-@version      20250118.00.39
+@version      20250502.23.33
 @namespace    https://userstyles.world/user/eggdll
 @description  makes the roblox site way better!!!!
 @author       eggdll
 ==/UserStyle== */
 
 @-moz-document domain("roblox.com") {
-  @import url("https://eggdll.github.io/roblox-amoled/font.css");
+  /* @import url("https://eggdll.github.io/roblox-amoled/font.css"); */
   @import url("https://eggdll.github.io/roblox-amoled/main.css");
+  @import url("https://eggdll.github.io/roblox-amoled/purple.css");
 }
-
-@import url("https://eggdll.github.io/roblox-amoled/purple.css");
