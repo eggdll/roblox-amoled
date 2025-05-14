@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name         roblox amoled blue
+@version      20250515.01.17
+@namespace    https://userstyles.world/user/eggdll
+@description  makes the roblox site way better!!!!
+@author       eggdll
+==/UserStyle== */
+
+@-moz-document domain("roblox.com") {
+  /* @import url("https://eggdll.github.io/roblox-amoled/font.css"); */
+  @import url("https://eggdll.github.io/roblox-amoled/main.css");
+  @import url("https://eggdll.github.io/roblox-amoled/blue.css");
+}
